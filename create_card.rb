@@ -4,7 +4,7 @@ require 'api-auth'
 require 'json'
 
 URL = 'https://anish-support.mingle-api.thoughtworks.com/api/v2/projects/house_build/cards.xml'
-OPTIONS = {:access_key_id => 'anishn', :access_secret_key => 'U0VOB8gw0UQYwF4zjyxtqnCXmFJXm70itEfIwP/Odgo='}
+OPTIONS = {:access_key_id => 'anishn', :access_secret_key => 'U+TfUKnOrdaLnB5MO9/BXlEnxb6dOHRkzwJ93XGgZ4U='}
 PARAMS = {
   :card => {
     :card_type_name => "Story", :name => "Test Story Card"
